@@ -17,6 +17,6 @@ npm install
 
 Dentro del directorio del proyecto ejecute lo siguiente
 
-``bash
+```bash
 node blockchain.js
 ```
